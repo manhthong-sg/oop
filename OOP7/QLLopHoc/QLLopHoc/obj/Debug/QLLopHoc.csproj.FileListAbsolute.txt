@@ -1,0 +1,16 @@
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csprojAssemblyReference.cache
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.frmLopHoc.resources
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.Properties.Resources.resources
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csproj.GenerateResource.cache
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csproj.CoreCompileInputs.cache
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.exe.config
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.exe
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\QLLopHoc.pdb
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\EntityFramework.dll
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\EntityFramework.SqlServer.dll
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\EntityFramework.xml
+D:\OOP7\QLLopHoc\QLLopHoc\bin\Debug\EntityFramework.SqlServer.xml
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.frmSinhVien.resources
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.csproj.CopyComplete
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.exe
+D:\OOP7\QLLopHoc\QLLopHoc\obj\Debug\QLLopHoc.pdb
